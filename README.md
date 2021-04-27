@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
+- 📫 reach me (muhammadhafizh4321@gmail.com)
 
 <!---
 hafizh4321/hafizh4321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
